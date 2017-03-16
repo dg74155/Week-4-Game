@@ -1,0 +1,125 @@
+body 
+	{background-image: url('../Images/images.jpg');}
+
+
+
+
+
+h1 
+	{color:white;
+	background-color: #531822;
+	width: 33%;
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    margin-left: 10px;
+}
+
+#rules  {
+	background-color: beige;
+	color: green;
+	font-family: 'times', georgia;
+	width: 50%;
+    height: 50%;
+    padding-top: 10px;
+    margin-left: 10px;
+
+}
+
+#random {background-color: #5bc880;
+		width: 200px;
+		height: 200px;
+	 	margin-top: 20px;
+    	float: left;
+    	margin-right: 15px;
+    	margin-left: 10px;
+}
+
+#display {
+    color: black;
+    text-align: center;
+    font-size: 72px;
+    font-weight: bold;
+    margin-top: 80px;
+}
+
+#score {
+		background-color: #4afdfe;
+		text-align: center;
+    	overflow: auto;
+   		width: 150px;
+   		margin-top: 40px;
+    	height: 125px;
+    	padding-top: 35px;
+    	margin-left: 25px;
+}
+text {
+		font-weight: bold;
+		color: black;
+}
+
+#culm {
+		color: black;
+    text-align: center;
+    font-size: 72px;
+    font-weight: bold;
+}
+
+#images {
+		background-color: white;
+		width: 575px;
+		height: 100px;
+		margin-left: 10px;
+}
+
+#gemone {
+		width: 100px;
+		height: 75px;
+		margin-left: 10px;
+		margin-right: 10px;
+		margin-top: 5px;
+}
+
+#gemtwo {
+		width: 100px;
+		height: 75px;
+		float: left;
+		margin-left: 10px;
+		margin-right: 10px;
+		margin-top: 5px;
+}
+
+#gemthr {
+		width: 100px;
+		height: 75px;
+		float: left;
+		margin-left: 10px;
+		margin-right: 10px;
+		margin-top: 5px;
+		}
+
+#gemfou {
+		width: 100px;
+		height: 75px;
+		float: left;
+		margin-left: 10px;
+		margin-right: 10px;
+		margin-top: 5px;
+}
+#text {	   
+		width: 250px;
+    	text-align: center;
+		background-color: #2ba296;
+		margin-left: 10px;
+}	
+		
+#number {
+		background-color: #2ba296;
+		width: 250px;
+		height: 100px;
+		margin-left: 10px;
+}
+#one	{
+		font-weight: bold;
+		color: white;
+}
